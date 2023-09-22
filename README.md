@@ -1,6 +1,6 @@
 # **features-engineering**
-Implementation of one of the features engineering methods which is outliers removal for multi-dimensional data based on the standard deviation value
-STL data structures and algorithms employed
+Implementation of one of the features engineering methods which is outliers removal for multi-dimensional data based on the standard deviation value,
+STL data structures and algorithms employed.
 
 # **DEPENDENCIES**
 C++ STL.
